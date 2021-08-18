@@ -1,2 +1,2 @@
 # hello-world
-Probe
+print("hello World")
